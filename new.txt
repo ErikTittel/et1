@@ -1,1 +1,2 @@
 Hello, this is a new file.
+a new line that's been added in the feature_1
