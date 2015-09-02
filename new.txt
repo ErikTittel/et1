@@ -1,2 +1,3 @@
-Hello, this is a new file.
+Hello, this is an absolutely new file.
 a new line that's been added in the feature_1
+new line
