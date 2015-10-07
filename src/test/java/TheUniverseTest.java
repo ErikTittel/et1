@@ -9,4 +9,9 @@ public class TheUniverseTest {
     public void theAnswer() {
         assertThat(new TheUniverse().theAnswer(), is(42));
     }
+
+    @Test
+    public void newMethod() {
+        new TheUniverse().newMethod();
+    }
 }
