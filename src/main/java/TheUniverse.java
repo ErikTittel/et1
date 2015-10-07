@@ -8,4 +8,8 @@ public class TheUniverse {
     public int theAnswer() {
         return 42;
     }
+
+    public void newMethod() {
+        System.out.println("Hello");
+    }
 }
